@@ -1,0 +1,24 @@
+.img-menu{
+    height: 1475px;
+    overflow-x: hidden;
+    width: px;
+    position: relative;
+    overflow: visible;
+    background-color: #0b2112;
+}
+
+.img-wrap{
+    margin: 0px;
+    padding: 0px;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    display: flex;
+}
+
+.img-setting{
+    margin-top: 60px;
+    width: 430px;
+    height: 430px;
+}
